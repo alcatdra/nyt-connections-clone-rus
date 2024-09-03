@@ -1,6 +1,8 @@
 # NYT Connections Clone
 
-Clone of the Connections game from the New York Times, written using Next.js.
+Clone of the Connections game from the New York Times in russian, written using Next.js.
+
+Клон игры Connections от New York Times на русском языке.
 
 ## Installing locally
 
