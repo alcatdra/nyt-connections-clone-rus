@@ -3,7 +3,7 @@ import { Category } from './_types';
 export const categories: Category[] = [
   {
     category: '"БЕЛЫЕ" ВЕЩИ',
-    items: ['ВОРОНА', 'ШОКОЛАД', 'НОЧЬ', 'ТАНЕЦ'],
+    items: ['ВИНО', 'ШОКОЛАД', 'НОЧЬ', 'ТАНЕЦ'],
     level: 4,
   },
   {
@@ -13,12 +13,12 @@ export const categories: Category[] = [
   },
   {
     category: 'ЗНАКИ ЗОДИАКА',
-    items: ['РАК', 'СКОРПИОН', 'ЛЕВ', 'ТЕЛЕЦ'],
-    level: 2,
+    items: ['ВОДОЛЕЙ', 'СКОРПИОН', 'ДЕВА', 'ТЕЛЕЦ'],
+    level: 1,
   },
   {
     category: 'ИЗМЕРИТЕЛЬНЫЕ ПРИБОРЫ',
     items: ['ВЕСЫ', 'ГРАДУСНИК', 'ЧАСЫ', 'ЛИНЕЙКА'],
-    level: 1,
+    level: 2,
   },
 ];
